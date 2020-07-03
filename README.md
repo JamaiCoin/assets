@@ -5,7 +5,7 @@
 ```
 
 ### What changed:
-- Assets in fodler `assets` and validators assets in `validators/assets` were changed from lowercased format to checksum format e,g: Binance BEP2: busd-bd1 => BUSD-BD1, Ethreum ERC20 token: 0xfff3ada5a2555a2b59bff4f44dfad90146cce8cb => 0xffF3ada5A2555a2B59BfF4F44DFad90146CcE8CB
+- Assets in folder `assets` and validators assets in `validators/assets` were changed from lowercased format to checksum format e,g: Binance BEP2: busd-bd1 => BUSD-BD1, Ethreum ERC20 token: 0xfff3ada5a2555a2b59bff4f44dfad90146cce8cb => 0xffF3ada5A2555a2B59BfF4F44DFad90146CcE8CB
 - Added scripts that generates white and black list of contract assets list
 
 ### What to do next:
